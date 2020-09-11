@@ -4,7 +4,7 @@
 
 [<img src="https://i.imgur.com/qliQVx1.png" />](https://ieeexplore.ieee.org/document/8283570 "Go to RA-L paper")
 
-*A light-weight and extensible C++ library for trajectory optimization for legged robots.*
+*A great light-weight and extensible C++ library for trajectory optimization for legged robots.*
 
 [![Build Status](http://build.ros.org/buildStatus/icon?job=Mdev__towr__ubuntu_bionic_amd64)](http://build.ros.org/view/Mdev/job/Mdev__towr__ubuntu_bionic_amd64/)
 [![Documentation](https://img.shields.io/badge/docs-generated-brightgreen.svg)](http://docs.ros.org/kinetic/api/towr/html/)
