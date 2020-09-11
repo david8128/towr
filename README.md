@@ -1,5 +1,7 @@
 <img align="right" src="https://i.imgur.com/qI1Jfyl.gif" width="55%"/>
 
+# Change made by someone
+
 [<img src="https://i.imgur.com/qliQVx1.png" />](https://ieeexplore.ieee.org/document/8283570 "Go to RA-L paper")
 
 *A light-weight and extensible C++ library for trajectory optimization for legged robots.*
